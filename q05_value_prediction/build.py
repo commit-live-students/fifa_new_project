@@ -10,8 +10,6 @@ data = q01_read_data(path)
 data= q02_clean_data(data)
 
 
-def q05_value_prediction(data):
-    "write your solution here"
   
 
 
