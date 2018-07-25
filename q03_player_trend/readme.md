@@ -23,10 +23,19 @@ Returns:
 Returns nothing
 
 The plot should look similar to
-1.
-2.
-3.
- 
+
+1. Player v Position:
+
+https://github.com/commit-live-students/fifa_project_new/blob/master/images/PlayerVPosition.png
+
+2. Wage Distribution
+
+https://github.com/commit-live-students/fifa_project_new/blob/master/images/WageDistribution.png
+
+3. Value v Overall
+  
+https://github.com/commit-live-students/fifa_project_new/blob/master/images/ValueVOverall.png
+
  
  
  ## After plotting, analyse the graph.
