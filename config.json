@@ -1,0 +1,1 @@
+{ "notebook": { "folder": "fifa_bitbucket" , "q01_read_data": "q01_read_data.ipynb", "q02_clean_data": "q02_clean_data.ipynb", "q03_player_trend": "q03_player_trend.ipynb", "q04_get_best_squad": "q04_get_best_squad.ipynb", "q05_value_prediction": "q05_value_prediction.ipynb", "q06_model_improvement": "q06_model_improvement.ipynb"} }
