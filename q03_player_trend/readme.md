@@ -39,8 +39,6 @@ https://github.com/commit-live-students/fifa_project_new/blob/master/images/Valu
  
  
  ## After plotting, analyse the graph.
- Some questions to ponder upon:
- EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEAI\sjasjkaPKDSJAl;sk
  
  
  
