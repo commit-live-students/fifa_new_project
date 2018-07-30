@@ -15,16 +15,16 @@ class Test_fifa_plot(TestCase):
 
     
     def test_MAE(self):
-        self.assertAlmostEqual(MAE, 1.394595127663726,2,
+        self.assertAlmostEqual(MAE, 1.394595127663726,1,
                               "The Expected return value does not match with the given return value")
 
     def test_RMSE(self):
-        self.assertAlmostEqual(RMSE, 2.6582616839240867, 2,
+        self.assertAlmostEqual(RMSE, 2.6582616839240867, 1,
                               "The Expected return value does not match with the given return value")
         
     
     def test_R20(self):
-        self.assertAlmostEqual(R2, 0.746327813472971,2,
+        self.assertAlmostEqual(R2, 0.746327813472971,1,
                               "The Expected return value does not match with the given return value")
 
 
