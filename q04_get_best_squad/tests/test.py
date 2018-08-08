@@ -34,9 +34,9 @@ class Test_fifa_setup(TestCase):
         
     def test_values_df(self):
         self.assertEqual(Dataframe['Player'][4], 'Carvajal',
-                         "You haven't picked the best team. Best RB is Carvajal and you picked ",Dataframe['Player'][4])
+                         "You haven't picked the best team. Best RB is Carvajal and you picked " + str(Dataframe['Player'][4]))
    
     def test_values_list(self):
         self.assertEqual(List[4], 'RB',
-                         "You haven't picked the best formation. your, your formation doesn't have RB")
+                         "You haven't picked the best formation. Your formation doesn't have RB")
          
