@@ -25,5 +25,5 @@ Returns:
 |----------|------------------|--------------------------------------------|
 | variable | Float | MAE Score|
 | variable | Float | RMSE Score|
-| variable | Float | R^2 Score|
+| variable | Float | $R^2$ Score|
  
