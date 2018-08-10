@@ -5,7 +5,7 @@ There are numerous ways to improve a model. One being implementation of Polynomi
 http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
 
 
-## Write a function `q08_polynomial` that:
+## Write a function `q06_polynomial` that:
 - Takes the dataset created from `q02_clean_data`
 - Splits the data into train and test(70/30)
 - Fit transforms the data using function `PolynomialFeatures` with degree as 3.
